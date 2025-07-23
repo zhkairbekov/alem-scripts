@@ -9,6 +9,6 @@
 
 ---
 
-<img src="assets/1.png" alt="info-1" width="200"/>
-<img src="assets/2.png" alt="info-1" width="200"/>
-<img src="assets/3.png" alt="info-1" width="200"/>
+<img src="assets/1.png" alt="info-1"/>
+<img src="assets/2.png" alt="info-1"/>
+<img src="assets/3.png" alt="info-1"/>
